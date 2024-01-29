@@ -6,6 +6,7 @@ está bem básico!
 Ferramentas utilizadas: HTML, CSS, Javascript- Json-Server (Para uso de API)
 
 Feito por: Pedro Paulo Torres
+
 Linkedin: https://www.linkedin.com/in/pedro-paulo-torres-teixeira/
 
 ENGLISH VERSION
